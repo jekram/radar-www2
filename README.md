@@ -7,3 +7,5 @@ Front end for simple node app to view issues on github. Communicates with radar 
 - NODE_ENV: Either 'dev' or 'test', modifies status page
 - CONSOLE_LOGLEVEL: Specifies log level for winston console (silly, debug, verbose, info, warn, error). The app only uses info and error messages.
   
+
+
